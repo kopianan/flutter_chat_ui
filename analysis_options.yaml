@@ -6,7 +6,6 @@ linter:
     - avoid_unused_constructor_parameters
     - directives_ordering
     - omit_local_variable_types
-    - prefer_expression_function_bodies
     - prefer_final_locals
     - prefer_relative_imports
     - prefer_single_quotes
